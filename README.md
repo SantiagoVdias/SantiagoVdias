@@ -9,7 +9,7 @@ sugestões, estou sempre aberto para aprendizado. Sejam muito bem vindos à minh
 English:
 
 Hello, my name is Santiago. I am 15 years old and currently looking for freelance jobs in Python programming. At the moment, I'm learning Python and my goal in 
-this community is to improve certain skills such as teamwork, leadership and networking. I am very interested in learning HTML, CSS and Javascript for me become 
+this community is to improve certain skills such as teamwork, leadership and networking. I am very interested in learning HTML, CSS and Javascript for become 
 a fullstack programmer. I write a weekly technology newsletter called TechZero1 whose link is https://techzero1.substack.com/ . In terms of communication, I have an 
 advanced level of Spanish and English, but the comments and variables in the codes that I post here will always be in Portuguese. In case of doubt or \n
 suggestions, I'm always open to learning. Welcome to my page and I hope you like it. Follow me on instagram: @dias.santiagov
@@ -17,7 +17,6 @@ suggestions, I'm always open to learning. Welcome to my page and I hope you like
 Español:
 
 Hola, mi nombre es Santiago. Tengo 15 años y actualmente estoy buscando trabajos freelance en programación Python. Tengo algunos cursos en marcha y mi objetivo
-en esta comunidad es mejorar ciertas habilidades como el trabajo en equipo, el liderazgo y la creación de redes. Estoy muy interesado en aprender HTML, CSS y Javascript
+en esta comunidad es mejorar ciertas habilidades como el trabajo en equipo y el liderazgo. Estoy muy interesado en aprender HTML, CSS y Javascript
 para convertirme en un programador fullstack. Escribo un boletín de tecnología semanal llamado TechZero1 cuyo enlace es https://techzero1.substack.com/. Para
-comunicacion, tengo un nivel avanzado de español e ingles, pero los comentarios y variables en los codigos que publico aqui siempre estaran en portugues. En caso de duda o
-sugerencias, siempre estoy abierto a aprender. Bienvenidos a mi página y espero que les guste. Sígueme en instagram: @dias.santiagov
+comunicacion, tengo un nivel avanzado de español e ingles, pero los comentarios y variables en los codigos que publico aqui siempre estaran en portugues. En caso de duda o sugerencias, siempre estoy abierto a aprender. Bienvenidos a mi página y espero que les guste. Sígueme en instagram: @dias.santiagov
